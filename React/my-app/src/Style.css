@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:gilory;
+  color: #fff;
+
+}
+
+html,
+body{
+ height: 100%;
+ width: 100%;
+}
+body{
+  background-color:black;
+}
+
+button{
+  background-color: lightgreen;
+  padding: 25px 50px;
+}
+
+
+h2{
+  background-color: maroon;
+}
+
+ 
